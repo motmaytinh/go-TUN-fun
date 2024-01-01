@@ -12,7 +12,7 @@ Then
 sudo ifconfig tun0 10.1.0.10 10.1.0.20 up
 ```
 
-Last
+Finally
 
 ```bash
 ping 10.1.0.20
